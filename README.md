@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Satyabrata !</h1>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satyabrata+Pradhan!;" />
+</h1>
 
 <h2 size="20" align="center">I'm a passionate Full stack Web & Mobile Developer from India 🇮🇳.</br>
 <img src="https://komarev.com/ghpvc/?username=satyabrata860&label=Profile%20views&color=blue&style=flat-square" alt="satyabrata860" /> 
@@ -172,13 +173,12 @@
 <a href="https://www.buymeacoffee.com/spradhan860" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
-<h2 size="20" align="left">👀</h2>
-<img src="https://raw.githubusercontent.com/satyabrata860/satyabrata860/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
 <!--
+<h1 align="center">Hi there 👋, I'm Satyabrata !</h1>
+
 **satyabrata860/satyabrata860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
