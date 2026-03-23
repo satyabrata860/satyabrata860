@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://satya-folio.vercel.app/)**
+- 👨‍💻 All of my recent projects are available at **[My Portfolio](https://satyaa1.vercel.app/)**
 
 - 📫 Reach me @ **spradhan860@gmail.com**
 
